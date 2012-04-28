@@ -4,3 +4,27 @@
 [submodule "Vim/.vim/plugins/nerdtree"]
 	path = Vim/.vim/plugins/nerdtree
 	url = git://github.com/scrooloose/nerdtree.git
+[submodule "Vim/.vim/plugins/vim-surround"]
+	path = Vim/.vim/plugins/vim-surround
+	url = git://github.com/tpope/vim-surround.git
+[submodule "Vim/.vim/plugins/vim-snipmate"]
+	path = Vim/.vim/plugins/vim-snipmate
+	url = git://github.com/garbas/vim-snipmate.git
+[submodule "Vim/.vim/plugins/vim-addon-mw-utils"]
+	path = Vim/.vim/plugins/vim-addon-mw-utils
+	url = git://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "Vim/.vim/plugins/tlib_vim"]
+	path = Vim/.vim/plugins/tlib_vim
+	url = git://github.com/tomtom/tlib_vim.git
+[submodule "Vim/.vim/plugins/snipmate-snippets"]
+	path = Vim/.vim/plugins/snipmate-snippets
+	url = git://github.com/honza/snipmate-snippets.git
+[submodule "Vim/.vim/plugins/phpfolding"]
+	path = Vim/.vim/plugins/phpfolding
+	url = git://github.com/vim-scripts/phpfolding.vim.git
+[submodule "Vim/.vim/plugins/vim-easymotion"]
+	path = Vim/.vim/plugins/vim-easymotion
+	url = git://github.com/Lokaltog/vim-easymotion.git
+[submodule "Vim/.vim/plugins/ack.vim"]
+	path = Vim/.vim/plugins/ack.vim
+	url = git://github.com/mileszs/ack.vim.git
