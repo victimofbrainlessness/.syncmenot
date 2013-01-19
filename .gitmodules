@@ -28,3 +28,6 @@
 [submodule "Vim/.vim/plugins/ack.vim"]
 	path = Vim/.vim/plugins/ack.vim
 	url = git://github.com/mileszs/ack.vim.git
+[submodule "Vim/.vim/plugins/taglist"]
+	path = Vim/.vim/plugins/taglist
+	url = git://github.com/vim-scripts/taglist.vim.git
